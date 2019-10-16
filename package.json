@@ -1,0 +1,49 @@
+{
+  "name": "hypervelocity",
+  "version": "1.0.0",
+  "description": "A portfolio web app built with Node.js, Express, and Bulma CSS framework about a fictitious sports car tuning and optimization company. Includes Sequelize ORM, PostgreSQL, FontAwesome 5 icons, Google Fonts, JavaScript, CSS, and HTML 5.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemsvanguard/hypervelocity.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "EJS",
+    "Bulma",
+    "CRUD",
+    "Gallery",
+    "PostgreSQL",
+    "Sequelize",
+    "cars",
+    "ponycars",
+    "musclecars",
+    "sportscars",
+    "CSS",
+    "FontAwesome"
+  ],
+  "author": "Ryan Hunter | GitHub handle: SystemsVanguard | Web: www.ryanhunter.org | Location: Toronto ON Canada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/systemsvanguard/hypervelocity/issues"
+  },
+  "homepage": "https://github.com/systemsvanguard/hypervelocity#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.2.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.19.6"
+  }
+}
