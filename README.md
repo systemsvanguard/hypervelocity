@@ -1,7 +1,7 @@
 # Hyper Velocity Tuners
 A demonstration of simple Node.js routing. A fictitous sports car tuning site built with Node.js, Express and Bulma CSS to display app routing.
 
-Live **Site Demo** ~ [Hyper Velocity Tuners](https://coding4kidsonline.herokuapp.com/) 
+Live **Site Demo** ~ [Hyper Velocity Tuners](https://hypervelocity.herokuapp.com/) 
 
 ![Hyper Velocity Tuners](http://ryanhunter.org/images/portfolio/highvelocitytuners.jpg)
 
