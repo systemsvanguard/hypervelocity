@@ -34,6 +34,6 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshot 
 
-![Hyper Velocity Tuners](http://ryanhunter.org/portfolio/highvelocitytuners.jpg)
+![Hyper Velocity Tuners](http://ryanhunter.org/images/portfolio/highvelocitytuners.jpg)
 	
 
