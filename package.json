@@ -44,7 +44,7 @@
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "pg": "^8.3.0",
     "pg-hstore": "^2.3.3",
